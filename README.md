@@ -1,14 +1,10 @@
-# Getting-and-Cleaning-data-Project
-Course Project of the getting and cleaning data course
-COURSERA
-=======================================================================
 GETTING AND CLEANING DATA COURSE 
 JOHNS HOPKINS UNIVERSITY
 =======================================================================
 COURSE PROJECT
 =======================================================================
 In this repository we will find the submission of Jorge Carrión for the "Getting and cleanning data Course Project". It contains the script of the data analysis "run_analysis.R" where we can find all the steps to get through the project and complete the analysis on the "Human activity Recognition Using Smartphone" data set.
-=======================
+
  Files:
 
 1. Codebook.md: A code book with description of all the variables, the data, and any work on the data set to clean it up.
